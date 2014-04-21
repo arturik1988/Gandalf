@@ -1,7 +1,7 @@
 Gandalf
 =======
 
-A simple PHP authentication system.
+A simple PHP authentication system. This is a massive work in progress to make this extremely efficient and simple to use. Pull requests welcome.
 
 ## Using the auth class
 ```
