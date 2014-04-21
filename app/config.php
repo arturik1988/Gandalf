@@ -1,12 +1,12 @@
 <?php
 return array(
 	'database' => array(
-		'driver' 	=> 'mysql',
+		'driver' => 'mysql',
 
-		'host' 		=> 'localhost',
-		'db'		=> 'auth',
-		'username'	=> 'root',
-		'password'	=> 'root'
+		'host' => 'localhost',
+		'db' => 'auth',
+		'username' => 'root',
+		'password' => 'root'
 	),
 	'debug'	=> true
 );
