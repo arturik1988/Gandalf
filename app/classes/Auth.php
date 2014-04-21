@@ -1,6 +1,6 @@
 <?php
 class Auth {
-	
+
 	/**
 	 * The session name used when signing in.
 	 *

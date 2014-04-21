@@ -2,6 +2,7 @@
 require 'app/init.php';
 $auth = new Auth;
 
+// Build table structure if it doesn't exist
 $auth->build();
 
 ?>
